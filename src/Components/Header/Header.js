@@ -7,7 +7,7 @@ function Header() {
   return (
     <div className="py-px bg-gray-100 overflow-y-hidden">
       {/* Code block starts */}
-      <div style={{ background: "#57B23C" }} className="w-full h-14 -mt-1">
+      <div className="w-full h-14 -mt-1 headabove">
         {" "}
         <p style={{ color: "white" }} className="text-left pt-4 ml-6">
           AD Office Spaces, SCO 2, Chaura Bazaar 2, Zirakpur | Working Hours:
@@ -16,11 +16,11 @@ function Header() {
       </div>
       <dh-component>
         <nav className="w-full">
-          <div className="container mx-auto px-6 flex items-center justify-between">
-            <div className="flex items-center" aria-label="Home" role="img">
+          <div className="mt-4 container mx-auto px-6 flex items-center justify-between">
+            <div className="flex items-center " aria-label="Home" role="img">
               <img
-                style={{ width: "10vw" }}
-                className="cursor-pointer w-8 sm:w-auto "
+                // style={{ width: "10vw" }}
+                className="cursor-pointer w-36"
                 src={logo}
                 alt="logo"
               />
