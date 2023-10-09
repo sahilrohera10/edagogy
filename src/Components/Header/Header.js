@@ -7,6 +7,13 @@ function Header() {
   return (
     <div className="py-px bg-gray-100 overflow-y-hidden">
       {/* Code block starts */}
+      <div style={{ background: "#57B23C" }} className="w-full h-14 -mt-1">
+        {" "}
+        <p style={{ color: "white" }} className="text-left pt-4 ml-6">
+          AD Office Spaces, SCO 2, Chaura Bazaar 2, Zirakpur | Working Hours:
+          8:00 AM – 8:00 PM{" "}
+        </p>
+      </div>
       <dh-component>
         <nav className="w-full">
           <div className="container mx-auto px-6 flex items-center justify-between">
@@ -48,10 +55,13 @@ function Header() {
                     <a href="javascript:void(0)">Home</a>
                   </li>
                   <li className="text-gray-600 text-lg hover:text-gray-800 cursor-pointer md:ml-10 pt-10 md:pt-0">
-                    <a href="javascript:void(0)">Services</a>
+                    <a href="javascript:void(0)">Courses</a>
                   </li>
                   <li className="text-gray-600 text-lg hover:text-gray-800 cursor-pointer md:ml-10 pt-10 md:pt-0">
-                    <a href="javascript:void(0)">Location</a>
+                    <a href="javascript:void(0)">Blogs</a>
+                  </li>
+                  <li className="text-gray-600 text-lg hover:text-gray-800 cursor-pointer md:ml-10 pt-10 md:pt-0">
+                    <a href="javascript:void(0)">Contact</a>
                   </li>
                 </ul>
               </div>
@@ -59,9 +69,16 @@ function Header() {
           </div>
         </nav>
         <div className="w-full px-6">
+          <p
+            style={{ color: "#0A970D" }}
+            className="text-lg text-center  font-bold leading-tight mt-2"
+          >
+            #1 BEST IELTS INSTITUTE IN ZIRAKPUR | SPECIALLY DESIGNED ENGLISH
+            SPEAKING COURSES
+          </p>
           <div
             style={{ background: "#3C3187" }}
-            className="mt-4 relative rounded-lg bg-indigo-700 container mx-auto flex flex-col items-center pt-12 sm:pt-12 pb-24 sm:pb-32 md:pb-48 lg:pb-56 xl:pb-54"
+            className="mt-2 relative rounded-lg bg-indigo-700 container mx-auto flex flex-col items-center pt-12 sm:pt-12 pb-24 sm:pb-32 md:pb-48 lg:pb-44 xl:pb-54"
           >
             <img
               className="mr-2 lg:mr-12 mt-2 lg:mt-12 absolute right-0 top-0"
@@ -75,17 +92,18 @@ function Header() {
             />
             <div className="w-11/12 sm:w-2/3 mb-5 sm:mb-10">
               <h1 className="text-2xl sm:text-3xl md:text-3xl lg:text-3xl xl:text-4xl text-center text-white font-bold leading-tight">
-                English Coaching Institute (PTE | SPOKEN ENGLISH | IELTS)
+                #1 Best English Institute in Zirakpur, Punjab
               </h1>
+              <h2 className="text-1xl text-center text-white font-bold leading-tight mt-4">
+                Master English Speaking skills with our specially curated
+                courses.
+              </h2>
             </div>
-            {/* <div className="flex justify-center items-center mb-10 sm:mb-20">
-              <button className="hover:text-white hover:bg-transparent lg:text-xl hover:border-white border bg-white transition duration-150 ease-in-out focus:outline-none focus:ring-2 focus:ring-offset-2 ring-offset-indigo-700	focus:ring-white rounded text-indigo-700 px-4 sm:px-8 py-1 sm:py-3 text-sm">
-                Get Started
-              </button>
+            <div className="flex justify-center items-center mb-8 sm:mb-20">
               <button className="hover:bg-white hover:text-indigo-600 lg:text-xl hover:border-indigo-600 ml-3 sm:ml-6 bg-transparent transition duration-150 ease-in-out focus:outline-none focus:ring-2 focus:ring-offset-2 ring-offset-indigo-700 focus:ring-white hover:bg-indigo-700-800 rounded border border-white text-white px-4 sm:px-8 py-1 sm:py-3 text-sm">
-                Learn More
+                Join Demo Class
               </button>
-            </div> */}
+            </div>
           </div>
           <div className="container mx-auto flex justify-center md:-mt-56 -mt-20 sm:-mt-40">
             <div className="relative sm:w-2/4 w-11/12">
