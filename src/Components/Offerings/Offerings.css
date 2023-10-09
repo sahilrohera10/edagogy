@@ -1,0 +1,20 @@
+.offercard
+{
+    width: 31vw;
+    background: white;
+    margin: 2.5rem;
+}
+
+@media screen and (max-width : 1025px){
+    .offercard{
+        width: 35vw;
+        margin: 2rem;
+    }
+}
+@media screen and (max-width : 768px){
+    .offercard{
+        width: 80%;
+        margin: auto;
+        margin-bottom: 2vw;
+    }
+}

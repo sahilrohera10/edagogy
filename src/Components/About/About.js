@@ -7,7 +7,7 @@ const About = () => {
         style={{ color: "#0A970D" }}
         className="font-semibold text-lg leading-3 text-indigo-700 hover:text-indigo-800 cursor-pointer pb-2"
       >
-        WHO WE ARE
+        ~ WHO WE ARE
       </p>
       <div className="flex lg:flex-row flex-col lg:gap-8 sm:gap-10 gap-12">
         <div className="w-full lg:w-6/12">
