@@ -8,6 +8,13 @@ export default function Blogs() {
   return (
     <>
       <div className="2xl:mx-auto 2xl:container xl:px-20 lg:px-10 px-6 py-20">
+        <p
+          style={{ color: "#0A970D" }}
+          className="mt-2.5 lg:w-1/2 lg:text-center text-3xl font-bold m-auto mb-16"
+        >
+          {" "}
+          ~ LATEST NEWS & ARTICLES
+        </p>{" "}
         <div className="lg:flex justify-center">
           <div className="2xl:w-7/12 lg:w-8/12 md:w-10/12">
             <img
