@@ -36,7 +36,7 @@ const data = [
 const Offerings = () => {
   return (
     <div
-      style={{ background: "#19124a" }}
+      style={{ background: "#3C3187" }}
       className=" 2xl:container 2xl:mx-auto "
     >
       <div className=" text-center lg:py-6 md:py-6 py-6">

@@ -14,7 +14,7 @@ function Header() {
             {" "}
             <p style={{ color: "white" }} className="text-left pt-4 ml-6">
               AD Office Spaces, SCO 2, Chaura Bazaar 2, Zirakpur | Working
-              Hours: 8:00 AM – 8:00 PM{" "}
+              Hours: 8:00 AM – 8:00 PM | Call Us At +91 7814797447{" "}
             </p>
           </div>
           <nav className="w-full ">
@@ -75,7 +75,7 @@ function Header() {
           </nav>
         </div>
 
-        <div className="w-full px-6 mt-28">
+        <div className="w-full px-6 ">
           <p
             style={{ color: "#0A970D" }}
             className="text-lg text-center  font-bold leading-tight mt-2"
@@ -108,7 +108,7 @@ function Header() {
             </div>
             <div className="flex justify-center items-center mb-8 sm:mb-20">
               <button className="hover:bg-white hover:text-indigo-600 lg:text-xl hover:border-indigo-600 ml-3 sm:ml-6 bg-transparent transition duration-150 ease-in-out focus:outline-none focus:ring-2 focus:ring-offset-2 ring-offset-indigo-700 focus:ring-white hover:bg-indigo-700-800 rounded border border-white text-white px-4 sm:px-8 py-1 sm:py-3 text-sm">
-                Join Demo Class
+                <a href="#contact">Join Demo Class</a>
               </button>
             </div>
           </div>
