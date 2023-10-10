@@ -75,7 +75,7 @@ function Header() {
           </nav>
         </div>
 
-        <div className="w-full px-6 mt-28 ">
+        <div className="w-full px-6 mt-40 ">
           <p
             style={{ color: "#0A970D" }}
             className="text-lg text-center  font-bold leading-tight mt-2"
