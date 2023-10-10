@@ -26,7 +26,10 @@ export default function Success() {
         {" "}
         ~ SUCCESS STORIES
       </p>{" "}
-      <div className="2xl:mx-auto 2xl:container flex justify-center">
+      <div
+        style={{ background: "#3C3187" }}
+        className="2xl:mx-auto 2xl:container flex justify-center p-10"
+      >
         <div className="2xl:px-20 px-6 py-12 w-full lg:w-4/5">
           {/* Carousel for Small-Sized Screen */}
           <CarouselProvider
