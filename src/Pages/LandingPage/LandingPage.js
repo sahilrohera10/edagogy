@@ -7,6 +7,8 @@ import Courses from "../../Components/Courses/Courses";
 import ClassTour from "../../Components/ClassTour/ClassTour";
 import Locate from "../../Components/Locate/Locate";
 import Footer from "../../Components/Footer/Footer";
+import Success from "../../Components/Success/Success";
+import Blogs from "../../Components/Blogs/Blogs";
 
 export default function LandingPage() {
   return (
@@ -16,6 +18,8 @@ export default function LandingPage() {
       <Offerings />
       <Contact />
       <Courses />
+      <Success />
+      <Blogs />
       <ClassTour />
       <Locate />
       <Footer />
