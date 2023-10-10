@@ -1,7 +1,7 @@
 import React from "react";
 function Contact() {
   return (
-    <div className="container mx-auto ">
+    <div id="contact" className="container mx-auto ">
       <div className="lg:flex">
         <div
           style={{
@@ -9,7 +9,7 @@ function Contact() {
             background:
               "linear-gradient(rgb(22 15 69) 0%,  rgb(60, 49, 135) 100%)",
           }}
-          className="xl:w-2/5 lg:w-2/5  py-16 xl:rounded-bl rounded-tl rounded-tr xl:rounded-tr-none"
+          className="xl:w-2/5 lg:w-2/5  py-16 xl:rounded-bl  rounded-tr xl:rounded-tr-none"
         >
           <div className="xl:w-5/6 xl:px-0 px-8 mx-auto mt-10">
             <h1 className="xl:text-4xl text-3xl pb-4 text-white font-bold">
