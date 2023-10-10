@@ -3,7 +3,7 @@ import "./Courses.css";
 
 const Courses = () => (
   <div>
-    <section className="px-6 xl:px-0">
+    <section id="courses" className="px-6 xl:px-0">
       <div className="mt-20 mx-auto container">
         <div className="flex flex-col lg:items-center justify-center w-full">
           <p

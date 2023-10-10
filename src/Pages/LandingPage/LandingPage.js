@@ -21,6 +21,7 @@ export default function LandingPage() {
       <Success />
       <Blogs />
       <ClassTour />
+
       <Locate />
       <Footer />
     </div>

@@ -15,9 +15,9 @@ import class3 from "../../Assets/classimg4.jpg";
 
 export default function ClassTour() {
   return (
-    <div className="container mx-auto">
+    <div style={{ background: "#1C144F" }} className="container mx-auto">
       <h1
-        style={{ color: "#0A970D" }}
+        style={{ color: "white", paddingTop: "55px" }}
         className="mt-2.5 lg:w-1/2 lg:text-center text-3xl font-bold m-auto"
       >
         ~ CLASS TOUR

@@ -2,7 +2,10 @@ import React from "react";
 
 const About = () => {
   return (
-    <div className=" bg-gray-100 2xl:container 2xl:mx-auto lg:py-16 lg:px-20 md:py-12 md:px-6 py-9 px-4">
+    <div
+      id="about"
+      className=" bg-gray-100 2xl:container 2xl:mx-auto lg:py-16 lg:px-20 md:py-12 md:px-6 py-9 px-4"
+    >
       <p
         style={{ color: "#0A970D" }}
         className="font-semibold text-lg leading-3 text-indigo-700 hover:text-indigo-800 cursor-pointer pb-2"
