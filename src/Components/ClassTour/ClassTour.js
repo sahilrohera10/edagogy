@@ -16,8 +16,11 @@ import class3 from "../../Assets/classimg4.jpg";
 export default function ClassTour() {
   return (
     <div className="container mx-auto">
-      <h1 className="font-semibold text-gray-800 text-3xl md:text-4xl text-center">
-        Class Tour
+      <h1
+        style={{ color: "#0A970D" }}
+        className="mt-2.5 lg:w-1/2 lg:text-center text-3xl font-bold m-auto"
+      >
+        ~ CLASS TOUR
       </h1>
       <div className="flex items-center justify-center w-full h-full py-4 sm:py-8 px-4">
         {/* Carousel for desktop and large size devices */}

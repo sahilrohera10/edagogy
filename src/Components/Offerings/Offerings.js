@@ -35,11 +35,11 @@ const data = [
 
 const Offerings = () => {
   return (
-    <div className=" 2xl:container 2xl:mx-auto">
+    <div className=" 2xl:container 2xl:mx-auto mb-8">
       <div className=" text-center lg:py-6 md:py-6 py-6">
         <p
           style={{ color: "#0A970D" }}
-          className=" w-10/12 mx-auto md:w-full  font-bold lg:text-4xl text-3xl lg:leading-9 md:leading-7 leading-9 text-center"
+          className=" w-10/12 mx-auto md:w-full  font-bold lg:text-3xl text-3xl lg:leading-9 md:leading-7 leading-9 text-center"
         >
           ~ OUR OFFERINGS
         </p>

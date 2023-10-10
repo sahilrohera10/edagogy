@@ -4,7 +4,7 @@ function Footer() {
     <>
       <div className=" bg-linear-pink-invert ">
         <div
-          style={{ background: "#57B23C" }}
+          style={{ background: "#3C3187" }}
           className=" mx-auto container pt-20 lg:pt-4 flex flex-col items-center justify-center"
         >
           <div className="text-white flex flex-col md:items-center f-f-l pt-3 font-semibold ">
