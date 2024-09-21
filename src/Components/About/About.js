@@ -19,7 +19,7 @@ const About = () => {
           </h2>
           <p className="font-normal text-base leading-6 text-gray-800 mt-6">
             Commenced in 2020 as Green Tickit in Zirakpur, we relaunched
-            ourselfs as Edagogy in 2021. Post delivering many successful #IELTS
+            ourselfs as Edagogy in 2021. Post delivering many successful #PTE
             #PTE #Spoken-English results we expanded ourselvs into a much more
             refined version under Edagogy. We established our institue in
             Zirakpur in-order to cater students from all over Tricity.

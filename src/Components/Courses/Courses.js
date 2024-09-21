@@ -24,7 +24,7 @@ const Courses = () => (
                 <div className=" w-full xl:w-1/2 lg:w-1/2 md:w-1/2 sm:w-full mb-4 px-2 p-10 ">
                   <div className=" shadow-lg group hover:bg-indigo-800 py-5 px-4 bg-white border border-gray-200shadow rounded-lg ">
                     <h4 className="text-2xl text-indigo-700 group-hover:text-white font-semibold pb-8 ">
-                      IELTS
+                      PTE
                     </h4>
 
                     <ul className="flex flex-col mb-6">

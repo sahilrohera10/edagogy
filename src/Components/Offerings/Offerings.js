@@ -8,7 +8,7 @@ const data = [
   {
     name: "Counselling",
     img: img1,
-    text1: "Free Counselling sessions for IELTS (Academic/General) & PTE",
+    text1: "Free Counselling sessions for PTE (Academic/General) & PTE",
     text2: "Free candidate English assessment to assess the prior knowledge",
   },
   {

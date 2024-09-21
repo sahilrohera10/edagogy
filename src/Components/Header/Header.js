@@ -80,7 +80,7 @@ function Header() {
             style={{ color: "#0A970D" }}
             className="text-lg text-center  font-bold leading-tight mt-2"
           >
-            #1 BEST IELTS INSTITUTE IN ZIRAKPUR | WE ARE PTE EXPERTS
+            #1 BEST PTE INSTITUTE IN ZIRAKPUR | WE ARE PTE EXPERTS
           </p>
           <div
             style={{ background: "#3C3187" }}

@@ -51,16 +51,16 @@ export default function Blogs() {
                 </div>
               </div>
               <h1 className="lg:text-3xl text-2xl font-semibold mt-4 text-gray-800">
-                Plan your IELTS to Perfection!
+                Plan your PTE to Perfection!
               </h1>
               <p className="text-base leading-6 text-gray-600 mt-2">
-                Preparing for IELTS can feel intimidating with four modules to
+                Preparing for PTE can feel intimidating with four modules to
                 prepare for and seemingly endless amount of information
                 available online to “help” you do so. But, how long do you
-                really need to prepare for IELTS? And what should you cover if
+                really need to prepare for PTE? And what should you cover if
                 you only have one month or two months to prepare? This is what
                 this blog will focus upon. Very briefly we will cater to the
-                under mentioned concerned areas around IELTS: ....
+                under mentioned concerned areas around PTE: ....
                 <br />
                 <br />
                 <span className="font-semibold">
@@ -70,9 +70,9 @@ export default function Blogs() {
                 <br />
                 <br />
                 Due to the vast amount of guidance and information shared
-                online, it usually becomes a daunting task for the IELTS
+                online, it usually becomes a daunting task for the PTE
                 test-takers to figure out from where to start with their
-                preparation process. In order to have a head-start, IELTS
+                preparation process. In order to have a head-start, PTE
                 test-takers should analyze their level of language first.
                 Depending upon the analyses and your score in the starting
                 itself, you will have be able to better organize yourself in
@@ -112,7 +112,7 @@ export default function Blogs() {
                   PTE Academic Exam fee hike Jan’23
                 </h1>
                 <p className="text-base leading-6 text-gray-600 mt-2">
-                  Are you a visa applicant looking for the perfect IELTS and PTE
+                  Are you a visa applicant looking for the perfect PTE and PTE
                   institute in Zirakpur? Edagogy ....
                 </p>
               </div>
